@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading ui file 'settingwlan.ui'
 **
-** Created: Mon May 31 13:41:54 2010
+** Created: Mon May 31 14:13:09 2010
 **      by: Qt User Interface Compiler version 4.5.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling ui file!

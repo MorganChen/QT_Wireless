@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'wirelesswindow.h'
 **
-** Created: Mon May 31 14:08:16 2010
+** Created: Mon May 31 14:13:25 2010
 **      by: The Qt Meta Object Compiler version 61 (Qt 4.5.2)
 **
 ** WARNING! All changes made in this file will be lost!
