@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/key.jpg</file>
+        <file>images/keyboard.png</file>
+        <file>images/star.png</file>
+        <file>images/wifi.png</file>
+        <file>images/back.png</file>
+        <file>images/signal.png</file>
+        <file>IMG_7532-LoMo.jpg</file>
+        <file>lincity-ng.png</file>
+    </qresource>
+</RCC>
